@@ -1,0 +1,75 @@
+.image{
+    display: flex;
+    justify-content: center;
+}
+.new{
+    position: absolute;
+    text-align: center;
+    font-family: Merriweather;
+    font-weight: 400;
+    line-height: normal;
+    color: rgb(243, 227, 191);
+    font-size: 32px;
+    margin-top: 40px;
+}
+.offer >h1{
+    color: rgb(241, 30, 30);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.offer >h6{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+}
+.offer >h6 span{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 28px;
+     font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.offer > div{
+    display: flex;
+    justify-content: center;
+}
+.image2{
+    display: flex;
+    justify-content: center;
+}
+.wlc{
+    position: absolute;
+    color: antiquewhite;
+    margin-top: 50px;
+    text-align:left;
+    display: flex;
+}
+.join{
+    background-color:burlywood;
+    color: antiquewhite;
+}
+.shadow{
+    background-color: rgb(254, 188, 164);
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.o{
+    color: #F00;
+}
+.class{
+    display: flex;
+    justify-content: center;
+    
+
+}
+li{
+    list-style: none;
+}
