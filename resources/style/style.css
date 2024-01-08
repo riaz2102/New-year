@@ -73,3 +73,54 @@
 li{
     list-style: none;
 }
+.come-container{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-around;
+    gap:50px;
+    
+}
+.come-text>h5{
+    color:#FF0000;
+    font-size: 24px;
+    
+}
+.come-text>h3{
+    color:#070211;
+    font-size:48px ;
+    font-weight: 900;
+    margin :-12px 0px;
+
+}
+.come-text>p{
+    color:#07021199;
+    font-size: 20px;
+
+
+}
+.come-text{
+    width: 400px;
+    
+}
+.come-description>h3{
+    color:#FF0000;
+    font-size: 40px;
+
+}
+.come-description>p{
+    color: #07021199;
+    font-size: 20px;
+}
+.come-description{
+    width: 400px;
+}
+.k{
+ border-radius:100%;
+ border: 12px solid white ;
+
+}
+.come-img{
+    border-radius:100%;
+    border: 8px solid red ; 
+}
+
