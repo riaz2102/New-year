@@ -123,4 +123,60 @@ li{
     border-radius:100%;
     border: 8px solid red ; 
 }
+.d>h5{
+    color: #070211;
+    font-size: 20px; 
+    text-align: center;
+    padding-top: 50px;
+
+}
+.i{
+    color: #F00;
+  
+}
+.holiday{
+    text-align: center;
+    font-size: 50px;
+
+}
+.d>p{
+    color:#07021199;
+    font-size: 30px;
+    text-align: center;
+    
+}
+
+.group{
+    display: flex;
+    justify-content: center;
+}
+.grp2{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    list-style: none;
+    margin-left: 151px;
+    margin-bottom: -1px;
+    position: absolute;
+}
+.BEST>h5{
+    color:#FF0000;
+    font-size: 20px;
+    width: 200px;
+
+}
+.BEST>h3{
+    color: #070211;
+    font-size: 50px;
+    
+}
+.BEST>p{
+color: #07021199;
+font-weight: 400;
+
+}
+
+ 
+
 
